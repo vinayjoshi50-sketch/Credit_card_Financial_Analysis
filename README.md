@@ -57,7 +57,7 @@ Insights - 📈
   4. Revenue by Card Type:
      *	Blue cards dominate (5M), followed by Platinum (4M) and Gold (3M).
      *	Indicates mass-market cards are driving volume, while premium cards still contribute significantly.
-  5.	Transaction Mode:
+  5. Transaction Mode:
      *	Swipe transactions dominate (0.52M), while Chip (0.03M) and Online (0.01M) are very low.
      *	Suggests digital adoption is weak.
   6. Weekly Growth:
