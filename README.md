@@ -40,7 +40,8 @@ Project Requirements 🚀
     *	Deliver insights that support strategic decisions in customer management, revenue optimization, and operational efficiency.
 
 
-### Dashbioard
+Dashboard
+![Credit Card Customer Dashboard](./Credit_card_Customer_Dashboard.png)
 
 
 Insights - 📈
