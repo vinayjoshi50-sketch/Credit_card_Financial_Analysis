@@ -26,8 +26,7 @@ Project Requirements 🚀
     *	Load both sources into a SQL Server database for centralized storage and management.
  2.	Data Quality & Preparation
     *	Perform data cleansing to address missing values, duplicates, and inconsistencies.
-    *	Standardize formats (e.g., dates, currency, IDs) and resolve schema mismatches.
-    *	Ensure referential integrity between transaction and customer data.
+    *	Standardize formats (e.g., dates, IDs) to ensure consistency across datasets.
  3.	Data Integration
     *	Import the curated tables into Power BI using optimized import queries.
     *	Apply transformations in Power Query where necessary for performance and consistency.
