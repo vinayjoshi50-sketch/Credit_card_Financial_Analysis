@@ -85,52 +85,52 @@ Recommendations 💡
 
 --- To Increase Revenue 💰
 1. Boost Digital Transactions
-  *	Incentivize online and chip-based payments with cashback or reward points.
-  * This reduces operational costs (less physical handling) and increases convenience.
+    *	Incentivize online and chip-based payments with cashback or reward points.
+    * This reduces operational costs (less physical handling) and increases convenience.
 2. Expand Premium Card Usage
-  * Promote Gold/Platinum cards with exclusive benefits (travel perks, lounge access).
-  * Higher annual fees and spending limits will lead to higher revenue.
+    * Promote Gold/Platinum cards with exclusive benefits (travel perks, lounge access).
+    * Higher annual fees and spending limits will lead to higher revenue.
 3. Cross-Sell Financial Products
-  *	Offer personal loans, EMI conversions, or insurance products to existing cardholders.
-  * Leverage customer transaction history for targeted offers.
+    *	Offer personal loans, EMI conversions, or insurance products to existing cardholders.
+    * Leverage customer transaction history for targeted offers.
 4. Category-Specific Campaigns
-  *  Bills and Entertainment are top the spend categories → launch co-branded offers with Theater chains, utility providers, and OTT platforms.
-  *  encourage recurring payments via auto-debit for utility bills.
+    *  Bills and Entertainment are top the spend categories → launch co-branded offers with Theater chains, utility providers, and OTT platforms.
+    *  encourage recurring payments via auto-debit for utility bills.
 5. Target Younger Customers (20–30 age group)
-  * Launch student/young professional cards with cashback on food delivery, OTT, and travel.
-  * Build long-term loyalty early.
+    * Launch student/young professional cards with cashback on food delivery, OTT, and travel.
+    * Build long-term loyalty early.
 6. Deepen Engagement with High-Income Customers
-  * Offer premium rewards (airport lounges, concierge services).
-  * Upsell Gold/Platinum cards with higher annual fees.
+    * Offer premium rewards (airport lounges, concierge services).
+    * Upsell Gold/Platinum cards with higher annual fees.
 7. 	Expand in Underperforming States
-  * Run regional campaigns in New Jersey and Florida where revenue is lower.
-  * Partner with local merchants for co-branded offers.
+    * Run regional campaigns in New Jersey and Florida where revenue is lower.
+    * Partner with local merchants for co-branded offers.
 
 
 
 --- To Increase Operational Efficiency ⚙️
 1. Encourage Digital Adoption
-  *	Reduce reliance on swipe transactions by promoting contactless and mobile wallet payments.
-  * Lowers transaction processing costs and fraud risk.
+    *	Reduce reliance on swipe transactions by promoting contactless and mobile wallet payments.
+    * Lowers transaction processing costs and fraud risk.
 2. Optimize Rewards Program
-  * Shift from blanket rewards to data-driven, personalized offers.
-  * Improves ROI on marketing spend.
+    * Shift from blanket rewards to data-driven, personalized offers.
+    * Improves ROI on marketing spend.
 3. Customer Segmentation
-  * Segment by spend level (Low, Medium, High) and target campaigns accordingly.
-  *	Avoids wasted marketing on low-value customers.
+    * Segment by spend level (Low, Medium, High) and target campaigns accordingly.
+    *	Avoids wasted marketing on low-value customers.
 4. Fraud Detection & Risk Management
-  *	Use analytics to flag unusual spending patterns.
-  * Reduces chargebacks and operational losses.
+    *	Use analytics to flag unusual spending patterns.
+    * Reduces chargebacks and operational losses.
 
 
  --- Marketing Strategy Suggestions 📢
 1. Segmentation Marketing: 
-  * Age 20–30 → digital-first campaigns (social media, influencer tie-ups).
-  * Age 40–60 → financial security, travel, and lifestyle benefits.
+    * Age 20–30 → digital-first campaigns (social media, influencer tie-ups).
+    * Age 40–60 → financial security, travel, and lifestyle benefits.
     
 2. Geo-Targeted Ads: 
-  * Focus on Texas,California and New York for retention.
-  * Push acquisition campaigns in New jersey and Florida.
+    * Focus on Texas,California and New York for retention.
+    * Push acquisition campaigns in New jersey and Florida.
 
 
 
