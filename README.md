@@ -24,7 +24,7 @@ Project Requirements 🚀
     * Transactions.csv (financial and operational records)
     * Customer_details.csv (customer demographics and attributes)
     *	Load both sources into a SQL Server database for centralized storage and management.
- 2.	Data Quality & Preparation
+ 2.	Data Quality & Preparation: 
     * Perform data cleansing to address missing values, duplicates, and inconsistencies.
     * Standardize formats (e.g., dates, IDs) to ensure consistency across datasets.
  3.	Data Integration
