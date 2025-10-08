@@ -41,5 +41,12 @@ Project Requirements 🚀
     •	Deliver insights that support strategic decisions in customer management, revenue optimization, and operational efficiency.
 
 
+      1. Data Sources
+         * Import datasets from two primary systems:
+             * Transactions.csv (financial and operational records)
+             * Customer_details.csv (customer demographics and attributes)
+
+
+
 
 
