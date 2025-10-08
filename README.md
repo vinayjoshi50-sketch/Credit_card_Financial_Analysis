@@ -67,18 +67,18 @@ Insights - 📈
      *	Revenue grows steadily week-on-week (~0.45–0.5%).
      *	Growth is consistent but incremental, not exponential.   
   7. Customer Demographics:
-    * Average Age: 46 → middle aged customers dominate.
-    * Revenue peaks in 40-50 age group,followed by 50-60
-    * Younger customers (20–30) contribute very little (0.2M).
+     * Average Age: 46 → middle aged customers dominate.
+     * Revenue peaks in 40-50 age group,followed by 50-60.
+     * Younger customers (20–30) contribute very little (0.2M).
   8. Income Segmentation
-    * High-income group contributes the most (5.6M), followed by low (3.3M) and medium (2.8M).
-    * Indicates strong penetration in affluent segments.  
+     * High-income group contributes the most (5.6M), followed by low (3.3M) and medium (2.8M).
+     * Indicates strong penetration in affluent segments.  
   9. Geographic distribution:
-    * Top 3 States(Texas,California and New York) contribute > 66% of the total revenue.
-    * Revenue is concentrated in a few states → potential to expand in underperforming regions.
+     * Top 3 States(Texas,California and New York) contribute > 66% of the total revenue.
+     * Revenue is concentrated in a few states → potential to expand in underperforming regions.
   10. Education Level:
-    * Graduates (4.7M) and High School (2.4M) dominate.
-    * Post-graduate and Doctorate segments are very small (~1M).
+     * Graduates (4.7M) and High School (2.4M) dominate.
+     * Post-graduate and Doctorate segments are very small (~1M).
 
 Recommendations 💡   
 ---
