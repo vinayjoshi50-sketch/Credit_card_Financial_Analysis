@@ -49,7 +49,7 @@ Dashboard - 2
 Insights - 📈
 ---
   1. Higher value spending:  
-     * Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance was driven by large-ticket purchases. 
+     * Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance  was driven by large-ticket purchases. 
      * Spending behavior in Q4 can may be attributed to festival spendings.
   2. Transaction Volume vs Revenue:
      * 656K transactions generated 45M in transaction value.
@@ -65,29 +65,25 @@ Insights - 📈
      *	Suggests digital adoption is weak.
   6. Weekly Growth:
      *	Revenue grows steadily week-on-week (~0.45–0.5%).
-     *	Growth is consistent but incremental, not exponential.
-       
-  7. Customer Demographics
+     *	Growth is consistent but incremental, not exponential.   
+  7. Customer Demographics:
     * Average Age: 46 → middle aged customers dominate.
     * Revenue peaks in 40-50 age group,followed by 50-60
     * Younger customers (20–30) contribute very little (0.2M).
-     
-  9. Income Segmentation
+  8. Income Segmentation:
     * High-income group contributes the most (5.6M), followed by low (3.3M) and medium (2.8M).
-    * Indicates strong penetration in affluent segments.
-     
-  11. Geographic distribution
+    * Indicates strong penetration in affluent segments.  
+  9. Geographic distribution:
     * Top 3 States(Texas,California and New York) contribute > 66% of the total revenue.
     * Revenue is concentrated in a few states → potential to expand in underperforming regions.
-      
-  13. Education Level
+  10. Education Level:
     * Graduates (4.7M) and High School (2.4M) dominate.
     * Post-graduate and Doctorate segments are very small (~1M).
 
 Recommendations 💡   
 ---
 
-To Increase Revenue 💰
+--- To Increase Revenue 💰
 1. Boost Digital Transactions
 *	Incentivize online and chip-based payments with cashback or reward points.
 * This reduces operational costs (less physical handling) and increases convenience.
@@ -112,7 +108,7 @@ To Increase Revenue 💰
 
 
 
-To Increase Operational Efficiency ⚙️
+--- To Increase Operational Efficiency ⚙️
 1. Encourage Digital Adoption
 *	Reduce reliance on swipe transactions by promoting contactless and mobile wallet payments.
 * Lowers transaction processing costs and fraud risk.
@@ -127,13 +123,12 @@ To Increase Operational Efficiency ⚙️
 * Reduces chargebacks and operational losses.
 
 
- 
- Marketing Strategy Suggestions 📢
+ --- Marketing Strategy Suggestions 📢
 1. Segmentation Marketing:
 * Age 20–30 → digital-first campaigns (social media, influencer tie-ups).
 * Age 40–60 → financial security, travel, and lifestyle benefits.
   
-2.Geo-Targeted Ads:
+2. Geo-Targeted Ads:
 * Focus on Texas,California and New York for retention.
 * Push acquisition campaigns in New jersey and Florida.
 
