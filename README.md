@@ -67,7 +67,7 @@ Insights - 📈
 Recommendations 💡   
 ---
 
-To Increase Revenue:
+To Increase Revenue--
 1. Boost Digital Transactions
 *	Incentivize online and chip-based payments with cashback or reward points.
 * This reduces operational costs (less physical handling) and increases convenience.
@@ -82,7 +82,7 @@ To Increase Revenue:
 *  encourage recurring payments via auto-debit for utility bills.
 
 
-To Increase Operational Efficiency
+To Increase Operational Efficiency--
 1. Encourage Digital Adoption
 *	Reduce reliance on swipe transactions by promoting contactless and mobile wallet payments.
 * Lowers transaction processing costs and fraud risk.
