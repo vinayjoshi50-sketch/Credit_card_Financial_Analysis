@@ -20,27 +20,27 @@ This Project Involves:
 Project Requirements 🚀
 ---
 
-  1. Data Sources
-
-     
-  o	Import datasets from two primary systems:
-   Transactions.csv (financial and operational records)
-  	Customer_details.csv (customer demographics and attributes)
-  o	Load both sources into a SQL Server database for centralized storage and management.
-  3.	Data Quality & Preparation
+ 1. Data Sources
+    o	Import datasets from two primary systems:
+    	Transactions.csv (financial and operational records)
+    	Customer_details.csv (customer demographics and attributes)
+    o	Load both sources into a SQL Server database for centralized storage and management.
+ 2.	Data Quality & Preparation
     o	Perform data cleansing to address missing values, duplicates, and inconsistencies.
     o	Standardize formats (e.g., dates, currency, IDs) and resolve schema mismatches.
     o	Ensure referential integrity between transaction and customer data.
-  4.	Data Integration
+3.	Data Integration
     o	Import the curated tables into Power BI using optimized import queries.
     o	Apply transformations in Power Query where necessary for performance and consistency.
-  5.	Measures & Data Modeling
+4.	Measures & Data Modeling
     o	Define calculated columns and DAX measures (e.g., week on week revenue).
     o	Validate measures against business rules to ensure accuracy.
-  6.	Reporting & Dashboarding
+5.	Reporting & Dashboarding
     •	Develop an interactive Power BI dashboard with clear KPIs, trend analysis, and segmentation views.
     •	Incorporate professional design principles (colour palette, layout, accessibility).
     •	Enable drill-throughs and filters for deeper analysis by stakeholders.
     •	Deliver insights that support strategic decisions in customer management, revenue optimization, and operational efficiency.
+
+
 
 
