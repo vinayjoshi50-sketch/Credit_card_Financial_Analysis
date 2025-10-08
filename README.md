@@ -66,10 +66,11 @@ Insights - 📈
 
 Recommendations 💡   
 ---
-To Increase Revenue
+
+To Increase Revenue:
 1. 	Boost Digital Transactions
-• 	Incentivize online and chip-based payments with cashback or reward points.
-• 	This reduces operational costs (less physical handling) and increases convenience.
+*	Incentivize online and chip-based payments with cashback or reward points.
+* This reduces operational costs (less physical handling) and increases convenience.
 2. 	Expand Premium Card Usage
 • 	Promote Gold/Platinum cards with exclusive benefits (travel perks, lounge access).
 • 	Higher annual fees and spending limits = higher revenue.
