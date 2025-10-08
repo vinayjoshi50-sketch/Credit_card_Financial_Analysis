@@ -46,11 +46,11 @@ Project Requirements 🚀
 Insights - 📈
 ---
   1.	Higher value spending:
-  Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance was driven by large-ticket purchases, mainly contributed by festive spending.
-  2.	Transaction Volume vs. Revenue:
+     * Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance was driven by large-ticket purchases, mainly c    contributed by festive spending.
+  2.	Transaction Volume vs. Revenue: 
      *	656K transactions generated 45M in transaction value.
      *	Average transaction size ≈ $68.6.
-  3. Interest Income:
+  3. Interest Income: 
      *	Total interest is 7.8M, which is a significant revenue driver (~65% of total revenue).
      *	Suggests reliance on revolving balances.
   4. Revenue by Card Type:
