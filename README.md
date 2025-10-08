@@ -73,26 +73,26 @@ To Increase Revenue:
 * This reduces operational costs (less physical handling) and increases convenience.
 2. Expand Premium Card Usage
 *  Promote Gold/Platinum cards with exclusive benefits (travel perks, lounge access).
-*  Higher annual fees and spending limits = higher revenue.
+*  Higher annual fees and spending limits will lead to higher revenue.
 3. Cross-Sell Financial Products
 *	 Offer personal loans, EMI conversions, or insurance products to existing cardholders.
 *  Leverage customer transaction history for targeted offers.
 4. Category-Specific Campaigns
-*  ravel and Bills are top spend categories → launch co-branded offers with airlines, utility providers, and OTT platforms.
-*  ncourage recurring payments via auto-debit.
+*  Bills and Entertainment are top the spend categories → launch co-branded offers with Theater chains, utility providers, and OTT platforms.
+*  encourage recurring payments via auto-debit for utility bills.
 
 
 To Increase Operational Efficiency
-1. 	Encourage Digital Adoption
+1. Encourage Digital Adoption
 *	Reduce reliance on swipe transactions by promoting contactless and mobile wallet payments.
 * Lowers transaction processing costs and fraud risk.
-2. 	Optimize Rewards Program
+2. Optimize Rewards Program
 * Shift from blanket rewards to data-driven, personalized offers.
 * Improves ROI on marketing spend.
 3. Customer Segmentation
 * Segment by spend level (Low, Medium, High) and target campaigns accordingly.
 *	Avoids wasted marketing on low-value customers.
-4.Fraud Detection & Risk Management
+4. Fraud Detection & Risk Management
 *	Use analytics to flag unusual spending patterns.
 * Reduces chargebacks and operational losses.
 
