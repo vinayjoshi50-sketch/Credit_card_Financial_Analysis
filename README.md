@@ -6,7 +6,6 @@ Welcome to the Credit card Financial Analysis Project repository! 🚀
 This project demonstrates a comprehensive weekly analysis of credit card transaction for the period 2023.From importing data from csv files to cleaning and transforming them in SSMS to building interactive dashboards in Power BI to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data Processing and Analytics.
 
 
-
 Project Overview 🎯
 ---
 
@@ -21,9 +20,9 @@ Project Requirements 🚀
 ---
 
  1. Data Sources
-    o	Import datasets from two primary systems:
-    	Transactions.csv (financial and operational records)
-    	Customer_details.csv (customer demographics and attributes)
+    * Import datasets from two primary systems:
+  * Transactions.csv (financial and operational records)
+    * 	Customer_details.csv (customer demographics and attributes)
     o	Load both sources into a SQL Server database for centralized storage and management.
  2.	Data Quality & Preparation
     o	Perform data cleansing to address missing values, duplicates, and inconsistencies.
