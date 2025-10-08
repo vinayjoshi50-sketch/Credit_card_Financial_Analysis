@@ -25,8 +25,8 @@ Project Requirements 🚀
     * Customer_details.csv (customer demographics and attributes)
     *	Load both sources into a SQL Server database for centralized storage and management.
  2.	Data Quality & Preparation
-    *	Perform data cleansing to address missing values, duplicates, and inconsistencies.
-    *	Standardize formats (e.g., dates, IDs) to ensure consistency across datasets.
+    * Perform data cleansing to address missing values, duplicates, and inconsistencies.
+    * Standardize formats (e.g., dates, IDs) to ensure consistency across datasets.
  3.	Data Integration
     *	Import the curated tables into Power BI using optimized import queries.
     *	Apply transformations in Power Query where necessary for performance and consistency.
@@ -34,8 +34,8 @@ Project Requirements 🚀
     *	Define calculated columns and DAX measures (e.g., week on week revenue).
     *	Validate measures against business rules to ensure accuracy.
  5.	Reporting & Dashboarding
-    *	Develop an interactive Power BI dashboard with clear KPIs, trend analysis, and segmentation views.
-    *	Incorporate professional design principles (colour palette, layout, accessibility).
+    * Develop an interactive Power BI dashboard with clear KPIs, trend analysis, and segmentation views.
+    * Incorporate professional design principles (colour palette, layout, accessibility).
     *	Enable drill-throughs and filters for deeper analysis by stakeholders.
     *	Deliver insights that support strategic decisions in customer management, revenue optimization, and operational efficiency.
 
