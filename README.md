@@ -47,8 +47,8 @@ Insights - 📈
 ---
 
  1	Higher value spending:
-    * Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance was driven by large-ticket purchases. 
-    * Spending behavior in Q4 can may be attributed to festival spendings.
+     * Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance was driven by large-ticket purchases. 
+     * Spending behavior in Q4 can may be attributed to festival spendings.
  2.	Transaction Volume vs. Revenue:
      *	656K transactions generated 45M in transaction value.
      *	Average transaction size ≈ $68.6.
