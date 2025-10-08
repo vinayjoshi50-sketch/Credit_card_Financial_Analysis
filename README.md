@@ -70,7 +70,7 @@ Insights - 📈
     * Average Age: 46 → middle aged customers dominate.
     * Revenue peaks in 40-50 age group,followed by 50-60
     * Younger customers (20–30) contribute very little (0.2M).
-  8. Income Segmentation:
+  8. Income Segmentation
     * High-income group contributes the most (5.6M), followed by low (3.3M) and medium (2.8M).
     * Indicates strong penetration in affluent segments.  
   9. Geographic distribution:
