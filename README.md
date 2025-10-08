@@ -77,8 +77,8 @@ Insights - 📈
      * Top 3 States(Texas,California and New York) contribute > 66% of the total revenue.
      * Revenue is concentrated in a few states → potential to expand in underperforming regions.
   10. Education Level:  
-     * Graduates (4.7M) and High School (2.4M) dominate. 
-     * Post-graduate and Doctorate segments are very small (~1M).
+       * Graduates (4.7M) and High School (2.4M) dominate. 
+       * Post-graduate and Doctorate segments are very small (~1M).
 
 Recommendations 💡   
 ---
