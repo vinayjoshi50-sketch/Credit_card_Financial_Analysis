@@ -48,21 +48,21 @@ Insights - 📈
   1.	Higher value spending:
   Q3 recorded the highest revenue alongside the highest transaction volume, whereas Q4 generated slightly lower revenue despite having the lowest number of transactions. This contrast suggests that Q4 performance was driven by large-ticket purchases, mainly contributed by festive spending.
 
-  3.	Transaction Volume vs. Revenue:
- *	656K transactions generated 45M in transaction value.
- *	Average transaction size ≈ $68.6.
+  2.	Transaction Volume vs. Revenue:
+     *	656K transactions generated 45M in transaction value.
+     *	Average transaction size ≈ $68.6.
   3. Interest Income:
- *	Total interest is 7.8M, which is a significant revenue driver (~65% of total revenue).
- *	Suggests reliance on revolving balances.
+     *	Total interest is 7.8M, which is a significant revenue driver (~65% of total revenue).
+     *	Suggests reliance on revolving balances.
   4. Revenue by Card Type:
- *	Blue cards dominate (5M), followed by Platinum (4M) and Gold (3M).
- *	Indicates mass-market cards are driving volume, while premium cards still contribute significantly.
+     *	Blue cards dominate (5M), followed by Platinum (4M) and Gold (3M).
+     *	Indicates mass-market cards are driving volume, while premium cards still contribute significantly.
   5.	Transaction Mode:
- *	Swipe transactions dominate (0.52M), while Chip (0.03M) and Online (0.01M) are very low.
- *	Suggests digital adoption is weak.
+     *	Swipe transactions dominate (0.52M), while Chip (0.03M) and Online (0.01M) are very low.
+     *	Suggests digital adoption is weak.
   6. Weekly Growth:
- *	Revenue grows steadily week-on-week (~0.45–0.5%).
- *	Growth is consistent but incremental, not exponential.
+     *	Revenue grows steadily week-on-week (~0.45–0.5%).
+     *	Growth is consistent but incremental, not exponential.
 
 
 
