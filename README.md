@@ -3,7 +3,7 @@ Credit card Financial Analysis Project
 
 Welcome to the Credit card Financial Analysis Project repository! 🚀
 
-This project demonstrates a comprehensive weekly analysis of credit card transaction for the period 2023.From importing data from csv files to cleaning and transforming them in SSMS to building interactive dashboards in Power BI to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data Processing and Analytics.
+This project demonstrates a comprehensive weekly analysis of credit card transactions for the period 2023.From importing data from csv files to cleaning and transforming them in SSMS to building interactive dashboards in Power BI to generate actionable insights. Designed as a portfolio project, it highlights industry best practices in data Processing and Analytics.
 
 
 Project Overview 🎯
@@ -35,7 +35,7 @@ Project Requirements 🚀
     *	Validate measures against business rules to ensure accuracy.
  5.	Reporting & Dashboarding
     * Develop an interactive Power BI dashboard with clear KPIs, trend analysis, and segmentation views.
-    * Incorporate professional design principles (colour palette, layout, accessibility).
+    * Incorporate professional design principles (colour palette, layout).
     *	Enable drill-throughs and filters for deeper analysis by stakeholders.
     *	Deliver insights that support strategic decisions in customer management, revenue optimization, and operational efficiency.
 
@@ -58,17 +58,17 @@ Insights - 📈
      * Total interest is 7.8M, which is a significant revenue driver (~65% of total revenue).
      * Suggests reliance on revolving balances.
   4. Revenue by Card Type:
-     *	Blue cards dominate (5M), followed by Platinum (4M) and Gold (3M).
-     *	Indicates mass-market cards are driving volume, while premium cards still contribute significantly.
+     *	Blue cards dominate (~10M), followed by Silver (1.1M) and Gold (0.5M).
+     *	Indicates mass-market cards are driving volume.
   5. Transaction Mode:
-     *	Swipe transactions dominate (0.52M), while Chip (0.03M) and Online (0.01M) are very low.
+     *	Swipe transactions dominate (0.56M), while Chip (0.28M) and Online (0.06M) are very low.
      *	Suggests digital adoption is weak.
   6. Weekly Growth:
      *	Revenue grows steadily week-on-week (~0.45–0.5%).
      *	Growth is consistent but incremental, not exponential.   
   7. Customer Demographics:
      * Average Age: 46 → middle aged customers dominate.
-     * Revenue peaks in 40-50 age group,followed by 50-60.
+     * Revenue peaks in 40-50 age group,followed by 50-60 group.
      * Younger customers (20–30) contribute very little (0.2M).
   8. Income Segmentation
      * High-income group contributes the most (5.6M), followed by low (3.3M) and medium (2.8M).
